@@ -1,0 +1,15 @@
+﻿  currentstate.cpp
+  currentuserdatawidget.cpp
+  userdata2json.cpp
+  cyberslacking.cpp
+  globalsignaltable.cpp
+  initialization.cpp
+  main.cpp
+  qrc_cyberslacking.cpp
+  moc_cyberslacking.cpp
+  moc_initialization.cpp
+  moc_globalsignaltable.cpp
+  moc_currentuserdatawidget.cpp
+  moc_userdata2json.cpp
+  moc_currentstate.cpp
+  Cyberslacking.vcxproj -> D:\postgraduate\C++\Github_code\Cyberslacking\x64\Debug\Cyberslacking.exe
